@@ -1,2 +1,3 @@
 # Bank-Management
-A project about bank management inspired by Case study assignment 9 of OOP in SE of branch IT Engineering in SPPU
+Bank management project for DBMS (4th sem SE IT)
+
